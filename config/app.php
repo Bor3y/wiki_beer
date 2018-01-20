@@ -106,7 +106,11 @@ return [
 
     'key' => env('APP_KEY'),
 
+
     'cipher' => 'AES-256-CBC',
+
+    'brewerydb_key' => env("BREWERYDB_KEY",'a27bbd94ce0d17c38b305bd5c5980087'),
+
 
     /*
     |--------------------------------------------------------------------------
