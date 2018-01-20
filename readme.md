@@ -16,6 +16,7 @@
 - **[Open the app](http://localhost:8000/)**
 
 ## Notes
+- to run tests use command .\vendor\bin\phpunit
 - maybe check git diff through any gui app.
 - for caching i use files just because i working over windows machine
 you can configure memcache or redis for caching
